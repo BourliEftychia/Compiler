@@ -120,19 +120,19 @@ Test 3
 
 Test 4
 
-![image](https://github.com/BourliEftychia/Compiler/assets/72252284/610f7ca5-9a64-484b-9a57-106a28be79c0)
+![image](https://github.com/BourliEftychia/Compiler/assets/72252284/43255d15-3593-4e68-8dd3-989300baf24c)
 
-![image](https://github.com/BourliEftychia/Compiler/assets/72252284/640c87bf-c75f-4dd9-971b-459b1fef0f51)
+![image](https://github.com/BourliEftychia/Compiler/assets/72252284/1725925c-54e6-4eaf-8745-fd81fc6e4a28)
 
-![image](https://github.com/BourliEftychia/Compiler/assets/72252284/d6d5d133-e883-4e68-a162-21b128321de4)
+![image](https://github.com/BourliEftychia/Compiler/assets/72252284/86d047c0-0593-451f-b959-e14ea099f0b2)
 
-![image](https://github.com/BourliEftychia/Compiler/assets/72252284/41e137e4-e2b5-410a-8aa7-375fc3f7873c)
+![image](https://github.com/BourliEftychia/Compiler/assets/72252284/308b4ed1-d6f6-488d-b372-a365216c03d7)
 
-![image](https://github.com/BourliEftychia/Compiler/assets/72252284/a22f518d-179b-4f5a-9219-cc85e4b7d161)
+![image](https://github.com/BourliEftychia/Compiler/assets/72252284/82cca256-3672-41b5-8417-919fe4841f00)
 
-![image](https://github.com/BourliEftychia/Compiler/assets/72252284/00b53f89-ae7a-41fc-bc26-74b718dbfb36)
+![image](https://github.com/BourliEftychia/Compiler/assets/72252284/2a915325-f017-4f4c-9e41-ff4fe5201cf2)
 
-![image](https://github.com/BourliEftychia/Compiler/assets/72252284/66698e31-ed62-4e0b-aa5e-797b49a01ee0)
+![image](https://github.com/BourliEftychia/Compiler/assets/72252284/99a83307-1dbd-4327-852c-2cc46efc9356)
 
 Here we see that the count digit program runs and correctly calculates the number of numbers we give as input.
 
