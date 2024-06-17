@@ -73,38 +73,66 @@ At the end, I also provide the codes in case you want to run them yourself.
 (In the second phase, I also submitted a txt file containing codes I ran and tested to verify my code).
 
 Test 1
+
 ![image](https://github.com/BourliEftychia/Compiler/assets/72252284/d5896be3-b3a1-41c9-9645-31dc46afde1f)
+
 ![image](https://github.com/BourliEftychia/Compiler/assets/72252284/8fe735a2-e2d8-4a1d-a831-d62e0acaf54b)
+
 ![image](https://github.com/BourliEftychia/Compiler/assets/72252284/ed04900c-98bc-40cb-8f4c-921dbd04c0f9)
+
 ![image](https://github.com/BourliEftychia/Compiler/assets/72252284/f7fbebad-3115-4a2c-9ff7-e998c0604938)
+
 ![image](https://github.com/BourliEftychia/Compiler/assets/72252284/f7709a75-7295-4e61-bb98-4620341b8456)
+
 ![image](https://github.com/BourliEftychia/Compiler/assets/72252284/572e02da-7b92-4f65-b333-1385bc6d0f52)
+
 ![image](https://github.com/BourliEftychia/Compiler/assets/72252284/7b4506cd-5c00-4ea0-9f64-6bb81ced288b)
+
 Here we see that the factorial program runs and calculates x correctly! of the number x that we give as input.
 
 Test 2
+
 ![image](https://github.com/BourliEftychia/Compiler/assets/72252284/11122577-72bb-4ac5-a58e-8e8cbab46dfb)
+
 ![image](https://github.com/BourliEftychia/Compiler/assets/72252284/bb976429-e4df-45f4-bd9b-28801cd881e9)
+
 ![image](https://github.com/BourliEftychia/Compiler/assets/72252284/d2b06a73-9b32-4d2a-b173-70101c836abb)
+
 ![image](https://github.com/BourliEftychia/Compiler/assets/72252284/cbf0ce44-9ff0-4d43-9db6-eee6ef843326)
+
 ![image](https://github.com/BourliEftychia/Compiler/assets/72252284/4d3bf21c-8fdc-42a3-add5-4295a9e38036)
+
 ![image](https://github.com/BourliEftychia/Compiler/assets/72252284/a75980d1-1d2b-49a9-82c9-3815ccbc975f)
 
 Test 3
+
 ![image](https://github.com/BourliEftychia/Compiler/assets/72252284/d9550462-c785-45d9-b894-69df06f24b3a)
+
 ![image](https://github.com/BourliEftychia/Compiler/assets/72252284/55f218da-453b-4e78-8969-d3d79b8bdbb5)
+
 ![image](https://github.com/BourliEftychia/Compiler/assets/72252284/4dd86325-ab4c-4393-89f0-e922f096acd1)
+
 ![image](https://github.com/BourliEftychia/Compiler/assets/72252284/0a861777-082a-4900-968a-e19ff366ddc3)
+
 ![image](https://github.com/BourliEftychia/Compiler/assets/72252284/d304186a-b12d-44ba-a9f6-cb5d880e748e)
+
 ![image](https://github.com/BourliEftychia/Compiler/assets/72252284/51a050f0-b3da-4a38-8c77-3062e7ce7d44)
 
 Test 4
+
 ![image](https://github.com/BourliEftychia/Compiler/assets/72252284/610f7ca5-9a64-484b-9a57-106a28be79c0)
+
 ![image](https://github.com/BourliEftychia/Compiler/assets/72252284/640c87bf-c75f-4dd9-971b-459b1fef0f51)
+
 ![image](https://github.com/BourliEftychia/Compiler/assets/72252284/d6d5d133-e883-4e68-a162-21b128321de4)
+
 ![image](https://github.com/BourliEftychia/Compiler/assets/72252284/41e137e4-e2b5-410a-8aa7-375fc3f7873c)
+
 ![image](https://github.com/BourliEftychia/Compiler/assets/72252284/a22f518d-179b-4f5a-9219-cc85e4b7d161)
+
 ![image](https://github.com/BourliEftychia/Compiler/assets/72252284/00b53f89-ae7a-41fc-bc26-74b718dbfb36)
+
 ![image](https://github.com/BourliEftychia/Compiler/assets/72252284/66698e31-ed62-4e0b-aa5e-797b49a01ee0)
+
 Here we see that the count digit program runs and correctly calculates the number of numbers we give as input.
 
