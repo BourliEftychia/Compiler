@@ -13,6 +13,8 @@ Below follows the automaton according to which I categorize the lexical units of
 
 **Automaton**
 
+![image](https://github.com/BourliEftychia/Compiler/assets/72252284/3fe91d61-5a07-4e27-9336-ddbe982f4db7)
+
 In the lexical analyzer, I assign values to the global variables:
 - Word_unit, which holds the lexical unit
 - Identifier, which is the identifier of the lexical unit
