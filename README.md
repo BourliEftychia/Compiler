@@ -76,19 +76,19 @@ At the end, I also provide the codes in case you want to run them yourself.
 
 Test 1
 
-![image](https://github.com/BourliEftychia/Compiler/assets/72252284/d5896be3-b3a1-41c9-9645-31dc46afde1f)
+![image](https://github.com/BourliEftychia/Compiler/assets/72252284/60eaf28c-181b-446b-b3d9-059e1a3bf749)
 
-![image](https://github.com/BourliEftychia/Compiler/assets/72252284/8fe735a2-e2d8-4a1d-a831-d62e0acaf54b)
+![image](https://github.com/BourliEftychia/Compiler/assets/72252284/0534cd69-f261-463f-a22a-c11fca6dfdc6)
 
-![image](https://github.com/BourliEftychia/Compiler/assets/72252284/ed04900c-98bc-40cb-8f4c-921dbd04c0f9)
+![image](https://github.com/BourliEftychia/Compiler/assets/72252284/4420794f-a670-40c6-ae33-ab7ff0667ce6)
 
-![image](https://github.com/BourliEftychia/Compiler/assets/72252284/f7fbebad-3115-4a2c-9ff7-e998c0604938)
+![image](https://github.com/BourliEftychia/Compiler/assets/72252284/ad9c89b2-72ec-45e3-9d56-6921d5479e50)
 
-![image](https://github.com/BourliEftychia/Compiler/assets/72252284/f7709a75-7295-4e61-bb98-4620341b8456)
+![image](https://github.com/BourliEftychia/Compiler/assets/72252284/6677237d-ee21-4177-b799-6fa83e57f6ad)
 
-![image](https://github.com/BourliEftychia/Compiler/assets/72252284/572e02da-7b92-4f65-b333-1385bc6d0f52)
+![image](https://github.com/BourliEftychia/Compiler/assets/72252284/81a9fbe2-da20-4084-8348-a099f4838020)
 
-![image](https://github.com/BourliEftychia/Compiler/assets/72252284/7b4506cd-5c00-4ea0-9f64-6bb81ced288b)
+![image](https://github.com/BourliEftychia/Compiler/assets/72252284/fcc68e3c-d3ae-455c-bc22-fe3512a94492)
 
 Here we see that the factorial program runs and calculates x correctly! of the number x that we give as input.
 
