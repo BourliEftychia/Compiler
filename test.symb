@@ -1,0 +1,15 @@
+Scope: 1
+Entities: 
+[Parameter, name: a, datatype: Integer, mode: in, offset: 12] 
+[Parameter, name: b, datatype: Integer, mode: inout, offset: 16] 
+[TemporaryVariable, name: T_0, datatype: Integer, offset: 20] 
+
+Scope: 0
+Entities: 
+[Variable, name: a, datatype: Integer, offset: 12] 
+[Variable, name: b, datatype: Integer, offset: 16] 
+[Variable, name: c, datatype: Integer, offset: 20] 
+[Function, name: f, startingQuad: 2, framelength: 24] 
+Formal parameters modes : in in 
+[TemporaryVariable, name: T_1, datatype: Integer, offset: 24] 
+

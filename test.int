@@ -1,0 +1,17 @@
+1: begin_block, f, _, _
+2: +, a, 1, T_0
+3: :=, T_0, _, b
+4: :=, 4, _, c
+5: retv, b, _, _
+6: endblock, f, _, _
+7: begin_block, random1, _, _
+8: :=, 1, _, a
+9: par, a, CV, _
+10: par, b, REF, _
+11: par, T_1, RET, _
+12: call, f, _, _
+13: :=, T_1, _, c
+14: out, c, _, _
+15: out, b, _, _
+16: halt, _, _, _
+17: endblock, random1, _, _
